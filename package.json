@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "prettier": "2.7.1"
+  },
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "Exprerience Clean Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahaasann/CleanBlog.git"
+  },
+  "keywords": [
+    "Clean",
+    "Blog",
+    "Experiences"
+  ],
+  "author": "Taha ASAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahaasann/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/tahaasann/CleanBlog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
